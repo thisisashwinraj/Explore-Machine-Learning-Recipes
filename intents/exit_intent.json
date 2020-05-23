@@ -1,0 +1,37 @@
+{
+  "id": "dbba0ae1-194b-4443-9e36-edeaff69bff6",
+  "name": "exit_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Bye, have a good day",
+            "Hope you enjoyed using me",
+            "Nice talking to you",
+            "Thanks, have a nice day",
+            "Okay, see you later",
+            "Hope you were satisfied",
+            "I\u0027d like to hear from you again"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": []
+}

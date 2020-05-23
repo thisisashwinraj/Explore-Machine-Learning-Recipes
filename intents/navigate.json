@@ -1,0 +1,52 @@
+{
+  "id": "ff522bf9-0f27-4590-98d6-deec42ccd979",
+  "name": "navigate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "939640f0-c9ec-40e0-ba30-59c9903b59d2",
+          "required": true,
+          "dataType": "@building",
+          "name": "building",
+          "value": "$building",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter your destination please"
+            },
+            {
+              "lang": "en",
+              "value": "Where do you want to go?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": []
+}

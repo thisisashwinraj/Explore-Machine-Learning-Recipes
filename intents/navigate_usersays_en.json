@@ -1,0 +1,92 @@
+[
+  {
+    "id": "3fd05583-8f6c-4d86-9c19-c086f962f685",
+    "data": [
+      {
+        "text": "Let\u0027s go to ",
+        "userDefined": false
+      },
+      {
+        "text": "SES",
+        "alias": "building",
+        "meta": "@building",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7968f16e-5847-422d-8c55-6dbf338acc01",
+    "data": [
+      {
+        "text": "lets go to ",
+        "userDefined": false
+      },
+      {
+        "text": "SHR",
+        "alias": "building",
+        "meta": "@building",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29572aac-f59d-4576-9209-c7f96b4e41b8",
+    "data": [
+      {
+        "text": "Can you find the way to ",
+        "userDefined": false
+      },
+      {
+        "text": "BHR",
+        "alias": "building",
+        "meta": "@building",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1275cbef-ad69-4efc-a3ea-7ccad6c99cc7",
+    "data": [
+      {
+        "text": "Navigate me to ",
+        "userDefined": false
+      },
+      {
+        "text": "SBS",
+        "alias": "building",
+        "meta": "@building",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07d41027-92c3-4aff-a133-3960dd7328ff",
+    "data": [
+      {
+        "text": "Where is  ",
+        "userDefined": false
+      },
+      {
+        "text": "SES",
+        "alias": "building",
+        "meta": "@building",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

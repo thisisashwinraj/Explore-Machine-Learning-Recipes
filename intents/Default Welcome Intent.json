@@ -1,0 +1,40 @@
+{
+  "id": "13a4ea73-12c4-41c4-81d0-dfd6ba58ae54",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Hi, I am the guide to IIT Bhubaneswar. what do you want to know?",
+            "Hi, I can tell you many things about IIT Bhubaneswar. Please ask me something",
+            "Ask me something about IIT Bhubaneswar!",
+            "Hello, I am your guide for now. What would you like to know?",
+            "Hi, ask me anything about IIT Bhubaneswar campus"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": []
+}
