@@ -1,2 +1,2 @@
 # MediumArticles
-Resources for Medium Articles
+This repository contains all the codes and resources that have been used in medium articles.
