@@ -8,6 +8,5 @@ This repository contains codes for the various Machine Learning algorithms, that
 [Link to  Notebook](https://github.com/ashwinraj-in/MachineLearningRecipes/blob/master/Regression/LinearRegression.ipynb)
 
 2. Applied Multivariate Regression 
-
 [Link  to  Article](https://towardsdatascience.com/applied-multivariate-regression-faef8ddbf807), 
 [Link to  Notebook](https://github.com/ashwinraj-in/MachineLearningRecipes/blob/master/Regression/MultivariateRegression.ipynb)
